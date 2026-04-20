@@ -14,14 +14,12 @@ Een lokale ontwikkelomgeving met PHP, MariaDB en PHPMyAdmin via Docker.
 
    > **Windows:** Docker Desktop vereist WSL2. Bij Windows 11 wordt dit automatisch geïnstalleerd. Bij Windows 10 kan het zijn dat je dit handmatig moet doen — Docker Desktop vraagt er om als dat nodig is.
 
-3. Accepteer de opdracht via de link die je van je docent hebt gekregen. GitHub Classroom maakt automatisch een persoonlijke kopie van deze repository voor jou.
-
-4. Clone **jouw eigen kopie** **buiten** OneDrive/Dropbox/iCloud. De clone-URL vind je op jouw GitHub Classroom assignment-pagina (groene "Code" knop → HTTPS):
+3. Clone de repository **buiten** OneDrive/Dropbox/iCloud:
    ```bash
    # Goed:  C:\dev\  of  ~/dev/
    # Fout:  OneDrive, Documenten, iCloud Drive
-   git clone <url van jouw eigen repo>
-   cd <mapnaam>
+   git clone https://github.com/St-Michael-College/informatica-phpsql.git
+   cd informatica-phpsql
    ```
 
 ---
