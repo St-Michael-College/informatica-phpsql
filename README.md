@@ -16,12 +16,12 @@ Een lokale ontwikkelomgeving met PHP, MariaDB en PHPMyAdmin via Docker.
 
 3. Accepteer de opdracht via de link die je van je docent hebt gekregen. GitHub Classroom maakt automatisch een persoonlijke kopie van deze repository voor jou.
 
-4. Clone **jouw eigen kopie** **buiten** OneDrive/Dropbox/iCloud:
+4. Clone **jouw eigen kopie** **buiten** OneDrive/Dropbox/iCloud. De clone-URL vind je op jouw GitHub Classroom assignment-pagina (groene "Code" knop → HTTPS):
    ```bash
    # Goed:  C:\dev\  of  ~/dev/
    # Fout:  OneDrive, Documenten, iCloud Drive
-   git clone https://github.com/St-Michael-College/informatica-phpsql-<jouwnaaam>.git
-   cd informatica-phpsql-<jouwnaam>
+   git clone <url van jouw eigen repo>
+   cd <mapnaam>
    ```
 
 ---
