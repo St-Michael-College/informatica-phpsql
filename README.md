@@ -18,7 +18,7 @@ Een lokale ontwikkelomgeving met PHP, MariaDB en PHPMyAdmin via Docker.
    ```bash
    # Goed:  C:\dev\  of  ~/dev/
    # Fout:  OneDrive, Documenten, iCloud Drive
-   git clone https://github.com/jklos-smc/informatica-phpsql.git
+   git clone https://github.com/St-Michael-College/informatica-phpsql.git
    cd informatica-phpsql
    ```
 
