@@ -1,0 +1,14 @@
+# Docker volumes (data stays local, not in Git)
+docker/data/
+
+# Claude Code settings
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
