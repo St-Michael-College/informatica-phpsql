@@ -1,4 +1,10 @@
-# Docker volumes (data stays local, not in Git)
+# Ignore local environment overrides
+.env
+
+# Node / OS files (optional)
+node_modules/
+*.log
+DS_Store# Docker volumes (data stays local, not in Git)
 docker/data/
 
 # Claude Code settings
